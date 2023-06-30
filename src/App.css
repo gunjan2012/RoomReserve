@@ -1,0 +1,23 @@
+body{
+  background-color: #F8F6F4;
+}
+
+.fluid{
+  max-width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+.display-contents{
+  display: contents;
+}
+
+.hotel-images{
+  max-height: 400px;
+  max-width: 400px;
+}
+
+.swiper-wrapper{
+align-items: center;
+}
